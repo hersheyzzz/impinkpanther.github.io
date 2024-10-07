@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Khanna Saab's Page</title>
+  <style>
+    font-family: Arial, sans-serif;
+    text-align: center;
+  </style>
+</head>
+<body>
+  <h1>Hello Khanna Saab!</h1>
+  <p>Happy to create this page for you!</p>
+  <h2>Special Invitation</h2>
+  <p>Hey Khanna Saab! Wanna take a ride on Punchu Baby and grab some murga at KFC? <span style="font-weight: bold;">Yes</span> or <span style="font-weight: bold;">No</span>? 
+  <img src="(link unavailable)" width="30"> 
+  <img src="(link unavailable)" width="30">
+  </p>
+</body>
+</html>
